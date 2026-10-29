@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Category-3D+Sculpting-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 Adobe Substance 3D Modeler Free Installer** — Adobe Substance 3D Modeler is a clay-based 3D sculpting application available in both desktop and VR modes. Works without internet access, no account required. Full offline installation.
+**💻 Adobe Substance 3D Modeler Free Installer** — Adobe Substance 3D Modeler is a VR and desktop clay sculpting application from Adobe for creating organic 3D models. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -30,16 +30,16 @@
 
 ## 📖 About Adobe Substance 3D Modeler
 
-Adobe Substance 3D Modeler is a clay-based 3D sculpting application available in both desktop and VR modes. Create organic and hard-surface models with intuitive sculpting tools, then seamlessly integrate them into the Adobe Substance 3D ecosystem for texturing and rendering. Part of Adobe's 3D creative suite, Substance 3D Modeler bridges concept sculpting and production-ready 3D assets.
+Adobe Substance 3D Modeler is a VR and desktop clay sculpting application from Adobe for creating organic 3D models. It uses a clay metaphor with push, pull, smooth, and stamp tools, bridging traditional sculpting intuition with digital 3D creation.
 
 ---
 
 ## ❌ Problem: Adobe Substance 3D Modeler is hard to access
 
-- **Adobe Subscription Required** — Part of Adobe Creative Cloud subscription
-- **VR Advantage** — Best experience in VR; desktop mode has some limitations
-- **Hardware Requirements** — VR sculpting requires capable PC and VR headset
-- **Learning Curve** — Clay-based sculpting requires different skills than polygon modeling
+- **Adobe Subscription** — Requires Creative Cloud subscription; no standalone purchase
+- **VR Optional** — Desktop mode available but designed around VR sculpting workflow
+- **Substance Ecosystem** — Best value within the full Adobe Substance 3D suite
+- **High Cost** — Adobe subscription pricing increases ongoing cost significantly
 
 ---
 
@@ -121,7 +121,7 @@ Adobe Substance 3D Modeler is a clay-based 3D sculpting application available in
 
 ---
 
-**Adobe Substance 3D Modeler Free Installer** — Adobe Substance 3D Modeler is a clay-based 3D sculpting application available in both desktop and VR modes. Install without internet connection today!
+**Adobe Substance 3D Modeler Free Installer** — Adobe Substance 3D Modeler is a VR and desktop clay sculpting application from Adobe for creating organic 3D models. Install without internet connection today!
 
 <div align="center">
 
